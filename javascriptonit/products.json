@@ -1,0 +1,35 @@
+[
+    {
+        "id":1,
+        "title":"Пирожки",
+        "itemsinBox":1,
+        "weight":150,
+        "price":180,
+        "imgsrc":"https://www.meme-arsenal.com/memes/6cfe17e86da0136fd426fecc48b0333f.jpg"
+    },
+    {
+        "id":2,
+        "title":"Самса",
+        "itemsinBox":1,
+        "weight":200,
+        "price":250,
+        "imgsrc":"https://bogatyr.club/uploads/posts/2023-03/thumbs/1677714447_bogatyr-club-p-samsa-foni-krasivo-72.jpg"
+    },
+    {
+        "id":3,
+        "title":"Сосиска в тесте",
+        "itemsinBox":1,
+        "weight":180,
+        "price":200,
+        "imgsrc":"https://www.meme-arsenal.com/memes/b8ec332769cb352daa1abffa1fad5b47.jpg"
+    },
+    {
+        "id":4,
+        "title":"Пицца",
+        "itemsinBox":1,
+        "weight":250,
+        "price":250,
+        "imgsrc":"https://img.freepik.com/premium-photo/isolated-russian-canteen-mini-pizza-with-sausages_219193-4932.jpg?w=2000"
+
+    }
+]
